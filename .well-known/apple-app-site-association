@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NR3ZB933VV.com.freedo.app",
+        "paths": [
+          "/applink/*"
+        ]
+      }
+    ]
+  }
+}

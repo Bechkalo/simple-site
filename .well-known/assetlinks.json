@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.freedo.app",
+      "sha256_cert_fingerprints": [
+        "19:4A:6A:09:99:3B:E0:72:9F:A3:CD:D4:4E:36:C8:B2:A7:2E:37:2A:23:42:31:66:97:C4:BD:9A:5B:84:DB:B7"
+      ]
+    }
+  }
+]
