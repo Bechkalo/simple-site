@@ -5,7 +5,7 @@
       {
         "appID": "NR3ZB933VV.com.freedo.app",
         "paths": [
-          "*"
+          "/uni/*"
         ]
       }
     ]
